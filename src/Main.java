@@ -32,7 +32,7 @@ public class Main {
             throw new RuntimeException(e);
         }
 
-        Ssss
+        System.out.println();
 
     }
 }
